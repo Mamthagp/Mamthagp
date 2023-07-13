@@ -1,13 +1,13 @@
-# Hi there 👋, I’m Mamatha!
+# Hi there 👋, I’m Mamatha Gowdru Parameshwarappa!
 #### 👩🏻‍💻 About Me
 - 🕸️   Passionate about the Web (WWW).
 - 🔭   Have experience on Front End (HTML, CSS, React, Node.js, Express.js, MongoDB).
-- 🌱   Learning more about technologies that go into building Front End/Full Stack Applications.
-- 🤔   Exploring new technologies and developing software solutions.
+- 🌱   Learning more about technologies for building Front End/Full Stack Applications.
+- 🤔   Exploring new technologies like TypeScript, and TailwindCSS.
 
 #### 🛠 Tech Stack
 - 💻   JavaScript | ES5, ES6 
-- 🌐   HTML | CSS | Bootstrap | React.js | Node.js | Express.js 
+- 🌐   HTML | CSS | Bootstrap | React.js | Redux | Redux-Thunk | Material UI | Node.js | Express.js 
 - 🛢   MongoDB | Mongoose
 - 🔧   Git | Markdown
 
