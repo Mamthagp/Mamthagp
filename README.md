@@ -1,7 +1,31 @@
-### Hi there 👋
+# Hi there 👋, I’m Mamatha!
+#### 👩🏻‍💻 About Me
+- 🕸️   Passionate about the Web (WWW).
+- 🔭   Have experience on Front End (HTML, CSS, React, Node.js, Express.js, MongoDB).
+- 🌱   Learning more about technologies that go into building Front End/Full Stack Applications.
+- 🤔   Exploring new technologies and developing software solutions.
+
+#### 🛠 Tech Stack
+- 💻   JavaScript | ES5, ES6 
+- 🌐   HTML | CSS | Bootstrap | React.js | Node.js | Express.js 
+- 🛢   MongoDB | Mongoose
+- 🔧   Git | Markdown
+
+#### 🤝🏻 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/mamthagp/) | [Github](https://github.com/mamthagp) | [Email](mamathagp.93@gmail.com)<a href="mamathagp.93@gmail.com"></a>
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
-**Mamthagp/Mamthagp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
