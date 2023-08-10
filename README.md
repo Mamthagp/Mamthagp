@@ -1,7 +1,7 @@
 # Hi there 👋, I’m Mamatha Gowdru Parameshwarappa!
 #### 👩🏻‍💻 About Me
 - 🕸️   Passionate about the Web (WWW).
-- 🔭   Have experience on Front End (HTML, CSS, JavaScript, React, TypeScript, Parcel, Vite, Next.js, Node.js, Express.js, MongoDB).
+- 🔭   Have experience in Front End (HTML, CSS, JavaScript, React, TypeScript, Parcel, Vite, Next.js, Node.js, Express.js, MongoDB).
 - 🌱   Learning more about technologies for building Front End/Full Stack Applications.
 - 🤔   Exploring new technologies like Next.js, AWS, CI/CD.
 
